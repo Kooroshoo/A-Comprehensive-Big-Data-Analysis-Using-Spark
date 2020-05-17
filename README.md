@@ -26,5 +26,3 @@ money, etc.
 - Illustrate how the fare changes over time (overall fares collected throughout the day, per hour, location, and
 also overall).
 
-- Extra: Any other kind of analysis you can think about is welcome to be added in the project.
-Analyze the results, meaning comment on the observations that you see.
